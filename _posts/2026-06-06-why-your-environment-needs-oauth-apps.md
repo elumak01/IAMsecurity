@@ -4,8 +4,6 @@ title: "Why Your Environment Needs OAuth Apps"
 date: 2026-06-06
 ---
 
-
-layout: post title: "Why Your Environment Needs OAuth Apps (And What Could Go Wrong)" date: 2026-06-06 categories: [IAM, OAuth, Security] tags: [oauth, azure-ad, iam, conditional-access, microsoft-365]
 If you've been working with Azure AD, GitHub, Google Workspace, or any modern platform, you've probably come across OAuth apps — or at least heard someone say "we need to register an app for this." But do you actually know why they exist, what problems they solve, and what risks they bring with them? Let's break it down.
 So, What Is an OAuth App?
 An OAuth app is basically an identity broker. It's how your application, script, or service gets permission to access resources — either on behalf of a signed-in user, or on its own as a background service — without ever touching a raw password.
