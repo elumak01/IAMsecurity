@@ -4,3 +4,5 @@ author: Kumaran Elumalai
 baseurl: ""
 url: "https://elumak01.github.io"
 theme: minima
+minima:
+  skin: classic
