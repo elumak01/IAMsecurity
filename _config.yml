@@ -3,3 +3,4 @@ description: Insights on OAuth, Conditional Access, PIM and Identity Security
 author: Kumaran Elumalai
 baseurl: ""
 url: "https://elumak01.github.io"
+theme: minima
